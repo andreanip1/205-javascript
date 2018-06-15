@@ -1,4 +1,6 @@
 /* 
+//cheguei atrasada//
+
 let lista [x1,x2,x3,x4]
 let lista []  //lista vazia
 lista.push(false) //adiciona um ícone a lista, na ultima posição
@@ -11,4 +13,7 @@ cliente.vip = true
 cliente = {nome: "Renan", login: "gerbilo", "senha:aviao11", vip: true}
 delete cliente.vip
 {nome: "Renan", login: "gerbilo", "senha:aviao11"}
+
+cliente.compras = ['danoninho','chocolate', 'biscoito', 'bolacha', 'amaciante']
+chave compras dentro de uma lista 
 */
